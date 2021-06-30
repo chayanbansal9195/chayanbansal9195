@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chayanbansal1" target="blank"><img src="https://img.shields.io/twitter/follow/chayanbansal1?logo=twitter&style=for-the-badge" alt="chayanbansal1" /></a> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **App Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chayanbansal9195/](https://github.com/chayanbansal9195/)
 
